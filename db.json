@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "customers": [
+    {
+      "id": "27000000",
+      "dni": "27000001",
+      "name": "CARLOS NADUR",
+      "age": 40
+    },
+    {
+      "id": "30000000",
+      "dni": "33000000",
+      "name": "ANDREA MAZZA",
+      "age": 27
+    },
+    {
+      "id": "30000002",
+      "dni": "30000002",
+      "name": "RODOLFO LOZANO",
+      "age": 28
+    },
+    {
+      "id": "30000001",
+      "dni": "30000001",
+      "name": "CARLOS MONZON",
+      "age": 11
+    },
+    {
+      "name": "PEPE PESCADOR",
+      "dni": "36044001",
+      "age": 40,
+      "id": "ucxYGVe"
+    },
+    {
+      "name": "RODRIGO BUENO",
+      "dni": "12556776",
+      "age": 5,
+      "id": "G0bIh2x"
+    },
+    {
+      "name": "TEST",
+      "dni": "12334543",
+      "age": 7,
+      "id": "3J1ErR2"
+    },
+    {
+      "name": "OTRA PRUEBA",
+      "dni": "12334556",
+      "age": 15,
+      "id": "fDXxFSr"
+    }
+  ]
+}
